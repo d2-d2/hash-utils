@@ -2,7 +2,7 @@
 
 Set of Python scripts to manage wordlists.
 
-* item_pairing.py - pair items from two lists. First list contains hashes, second hash:plaintext pairs. The goal here is to update 'hashes' with corresponding plaintext passwords without changing order of hashes. This script assumes '\n' as EOL.
+* **item_pairing.py** - pair items from two lists. First list contains hashes, second hash:plaintext pairs. The goal here is to update 'hashes' with corresponding plaintext passwords without changing order of hashes. This script assumes '\n' as EOL.
 
 ### Requirements
 
